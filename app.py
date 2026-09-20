@@ -36,7 +36,7 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-st.title("✍️ AI Quote Generator")
+st.title("✍️ QuoteWise")
 st.caption("cuDNN-accelerated LSTM Language Model")
 
 st.warning(
