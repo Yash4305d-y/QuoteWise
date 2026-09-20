@@ -10,7 +10,7 @@ os.environ["TF_CPP_MIN_LOG_LEVEL"] = "2"
 
 # Page configuration
 st.set_page_config(
-    page_title="AI Quote Generator",
+    page_title="QuoteWise",
     page_icon="✍️",
     layout="centered"
 )
