@@ -4,6 +4,8 @@
 
 QuoteWise is a deep learning project that learns word patterns and sequential language structures from a dataset of quotes and generates new quote-like text from a user-provided seed phrase.
 
+🔗 **[🚀 Try QuoteWise Live](https://quotewise.streamlit.app/)**
+
 The project compares a **SimpleRNN baseline** with an **LSTM-based language model**, using tokenization, sequence generation, word embeddings, and temperature-controlled sampling to produce varied text.
 
 ---
@@ -336,9 +338,6 @@ Through this project, I explored:
 * Model checkpointing
 * Early stopping
 * Saving and reusing trained NLP models
-
----
-
 
 ---
 
